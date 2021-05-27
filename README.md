@@ -15,6 +15,7 @@ How far does your hamster run?
 
 Uses gpiozero and offers a callback param to receive your data.
 
+Demo testing done using a straw with the encoder disc on the end (no hamsters were harmed in the hacking of this project)
 
 Sample pushing data to to influxDb rendered in grafana - both running on the Raspberry Pi
 ![image](https://user-images.githubusercontent.com/21081296/119868782-671c6800-bf17-11eb-820d-bc7c3261b7fc.png)
